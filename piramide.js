@@ -7,7 +7,7 @@ document.write('<br>')
 }
 
 var str = '';
-for (var i = 0; i <= 10; i++){
+for (var i = 1; i <= 10; i++){
 str += 'xx';
 document.write(str + '<br>')
 }
